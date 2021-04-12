@@ -1,0 +1,10 @@
+City_ID,City,Country,Lat,Lng,Max Temp,Humidity,Cloudiness,Wind Speed,Current Discription
+0,Tuktoyaktuk,CA,69.4541,-133.0374,-2.2,65,1,8.05,clear sky
+1,Egvekinot,RU,66.3167,-179.1667,0.39,67,100,21.61,overcast clouds
+2,East London,ZA,-33.0153,27.9116,70.61,84,93,3.36,overcast clouds
+3,Kapaa,US,22.0752,-159.319,75.2,60,90,16.11,overcast clouds
+4,Yellowknife,CA,62.456,-114.3525,9.0,72,90,4.61,light snow
+5,Kataysk,RU,56.289,62.5841,43.02,94,100,6.24,light rain
+6,Mantua,IT,45.1667,10.7833,50.0,92,100,1.99,overcast clouds
+7,Bokovskaya,RU,49.229,41.8306,48.99,84,60,9.31,broken clouds
+8,Leua,SK,48.2156,18.6071,48.99,67,97,4.0,overcast clouds
